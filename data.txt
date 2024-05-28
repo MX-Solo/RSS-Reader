@@ -1,0 +1,2 @@
+horstmann.com;https://horstmann.com/unblog/;https://horstmann.com/unblog/rss.xml
+mmdalirezamann.com;https://mmdalirezamann.com/unblog/;https://mmdalirezamann.com/unblog/rss.xml
